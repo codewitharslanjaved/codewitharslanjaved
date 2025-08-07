@@ -54,23 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslanjaved&theme=radical&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arslanjaved&theme=radical" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arslanjaved&theme=gruvbox&margin-w=10&no-frame=true" />
-</p>
-
----
-
 ## ✨ Dev Life GIF ZONE
 
 <div align="center">

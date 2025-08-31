@@ -1,7 +1,7 @@
 <!-- 🎉 HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
   <h1 style="font-size:3rem;">Hi, I'm <span style="color:#f44336">Arslan Javed</span> 👋</h1>
+  <img src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="550"/>
   <h3>🚀 14-Year-Old Full Stack Developer from Pakistan 🇵🇰</h3>
   <h4>🔥 Code | ⚙️ Build | 💡 Innovate</h4>
 </div>
@@ -62,30 +62,34 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="210" />
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="210" />
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="210" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210"/>
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="210" />
 <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="210" />
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:arslanjaved1414@gmail.com" title="Email Me">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://linkedin.com/in/codewitharslanjaved" title="View my LinkedIn profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  &nbsp;
+  <a href="https://codewitharslan.vercel.app" title="Visit my Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/ArslanCodey" title="Follow me on Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
----
 
 ## 💡 Quote
 
 > _“Start young. Build big. Stay sharp.”_  
-> ⚡ *Coding the future at 14.*
+> ⚡ *Age is just a number.*

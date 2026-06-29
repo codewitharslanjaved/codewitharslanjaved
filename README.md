@@ -1,143 +1,134 @@
-<!-- HERO SECTION -->
-
 <div align="center">
 
-# Arslan Javed
+# 👋 Hi, I'm Arslan Javed
 
-### Full Stack Developer • AI Automation Specialist • UI/UX Designer
+### 🚀 Full Stack Developer • AI Automation Specialist • UI/UX Designer
 
-Building modern web applications, AI-powered workflows, and business automation systems.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-🌐 Portfolio: https://codewitharslan.vercel.app
+Building modern web applications, AI-powered workflows, and automation systems that help businesses save time and scale faster.
+
+<p>
+  <a href="https://codewitharslan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:arslanjaved1414@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arslan-javed-945373377/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ArslanCodey">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 💡 About Me
 
-I'm a Full Stack Developer and Automation Specialist focused on helping businesses build modern digital products and automate repetitive processes.
-
-I specialize in:
-
-* Full Stack Web Development
-* AI Automation Systems
-* Make.com Workflows
-* n8n Automations
-* API Integrations
-* Modern UI/UX Design
-* Business Process Automation
-
-My goal is simple:
-
-> Build fast, scalable, and intelligent solutions that save time and create real business value.
+* ⚡ Full Stack Developer
+* 🤖 AI Automation Specialist
+* 🎨 UI/UX Designer
+* 🔗 API Integration Expert
+* 🌍 Available for Remote Projects Worldwide
+* 🚀 Passionate about building products and automation systems
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
-* Next.js
-* React
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* HTML5
-* CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-### Backend
+### Backend & Database
 
-* Node.js
-* Express.js
-* MongoDB
-* PostgreSQL
-* Firebase
-* Supabase
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,supabase" />
+</p>
 
-### Automation & AI
+### Automation & Tools
 
-* Make.com
-* n8n
-* Zapier
-* OpenAI API
-* AI Agents
-* Workflow Automation
-* API Integrations
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Figma
-* Canva
-* Linux
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
+</p>
 
 ---
 
-## Featured Projects
+## 🤖 Automation Expertise
+
+* Make.com Workflows
+* n8n Automation
+* Zapier Integrations
+* AI Agents
+* OpenAI API
+* Lead Automation
+* CRM Automation
+* Email Automation
+* API Integrations
+
+---
+
+## 🚀 Featured Projects
 
 ### Lumetran
 
-Modern blogging platform built with Next.js featuring responsive design and optimized performance.
+Modern blogging platform built using Next.js and MDX.
 
 ### Monster For Tech
 
-Technology-focused web platform designed for content delivery and user engagement.
+Technology-focused platform designed for modern content delivery.
 
 ### Cyber2077Exchange
 
-Modern currency and cryptocurrency exchange platform with futuristic UI and real-time functionality.
+Currency and cryptocurrency exchange platform with futuristic design.
 
 ---
 
-## Services
+## 📊 GitHub Stats
 
-### Web Development
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewitharslanjaved&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharslanjaved&layout=compact&hide_border=true" />
+</p>
 
-* Business Websites
-* Landing Pages
-* SaaS Applications
-* Portfolio Websites
-* Full Stack Applications
-
-### Automation Solutions
-
-* Make.com Automation
-* n8n Workflow Development
-* Lead Management Systems
-* CRM Automation
-* Email Automation
-* AI Workflow Integration
-* API Connections
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharslanjaved" />
+</p>
 
 ---
 
-## Current Focus
+## 🌐 Connect With Me
 
-* Advanced AI Automation
-* Agentic Workflows
-* Scalable Full Stack Applications
-* Business Automation Systems
-* Modern SaaS Development
+<p align="center">
+
+<a href="mailto:arslanjaved1414@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/arslan-javed-945373377/">
+<img src="https://img.shields.io/badge/LinkedIn-Arslan_Javed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/ArslanCodey">
+<img src="https://img.shields.io/badge/X-ArslanCodey-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://codewitharslan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-## Connect With Me
+<div align="center">
 
-📧 [arslanjaved1414@gmail.com](mailto:arslanjaved1414@gmail.com)
+### ⚡ Building software that solves problems and automation that saves time.
 
-💼 LinkedIn:
-https://www.linkedin.com/in/arslan-javed-945373377/
-
-💻 GitHub:
-https://github.com/codewitharslanjaved
-
-🌐 Portfolio:
-https://codewitharslan.vercel.app
-
----
-
-> Building software that solves problems and automation that saves time.
+</div>
